@@ -1,6 +1,3 @@
-# About
-
-## Building my portfolio using the Material Design Bootsrap framework
 Material Design for Bootstrap
 
 Version: MDB Free 4.7.5
@@ -26,7 +23,4 @@ https://mdbootstrap.com/forums/forum/support/
 
 Contact:
 office@mdbootstrap.com
-
-## Previous notes
-[Initial portfolio and notes](https://github.com/langdonms/portfolio)
 
