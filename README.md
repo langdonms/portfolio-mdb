@@ -1,8 +1,8 @@
 # About
+#### Redesign of my portfolio
+[Initial portfolio and notes](https://github.com/langdonms/portfolio)
 
-## Building my portfolio using the Material Design Bootsrap framework
-Material Design for Bootstrap
-
+### Built using Material Design for Bootstrap
 Version: MDB Free 4.7.5
 
 Documentation:
@@ -27,6 +27,12 @@ https://mdbootstrap.com/forums/forum/support/
 Contact:
 office@mdbootstrap.com
 
-## Previous notes
-[Initial portfolio and notes](https://github.com/langdonms/portfolio)
+## Design Notes
+Check out the #issues for individual features and implementation. This readme I"ll use for overall planning and visions.
 
+### Landing Page
+Values: Clean, intuitive: easy to navigate and simple
+Requirements:
+- [ ] navigation (thinking about the using the drawer component)
+- [ ] header or footer contact
+- [ ] brand or portrait
